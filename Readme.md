@@ -4,6 +4,7 @@
 
 This is a Restful API using Flask and MongoDB.
 The purpose of the API is user authentication using JWT.
+This Api also have request limits
 
 * **Flask** is a lightweight web application framework designed to get results fast and leave room to make the app more detailed in the future.
    Here we do not having to follow a strict convention, hence it could accelerate the development process and gives developers the added flexibility.
